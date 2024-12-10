@@ -2,3 +2,4 @@ datasets/cleaned_angkorwat.txt
 datasets/test_set.txt
 datasets/train_set.txt
 datasets/val_set.txt
+datasets/angkor.txt
